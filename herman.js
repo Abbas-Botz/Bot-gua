@@ -52,7 +52,7 @@ owner = setting.OwnerNumber//ubah di file setting.json
 botname = setting.BotName//ubah di file setting.json
 ownername = setting.OwnerName//ubah di file setting.json
 fake = setting.Fake
-pe = 'https://instagram.com/cal_me_herman?utm_medium=copy_'
+pe = 'https://instagram.com/riski_abbas12?utm_medium=copy_'
 //࿇ ══━━━━━━━━━━━━━━━━━━━━✥SUBSCRIBE HERMAN CHANEL✥━━━━━━━━━━━━━━━━━━━━━━━━══ ࿇
 AlphaBot = 'Alphabot'
 Leyscoders = 'IkyOgiwara'
