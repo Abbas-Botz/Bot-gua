@@ -101,7 +101,7 @@ module.exports = herman = async (herman, mek, _welkom) => {
 		const Verived = "0@s.whatsapp.net"
 		const txt = mek.message.conversation
 		const botNumber = herman.user.jid
-		const ownerNumber = [`${owner}@s.whatsapp.net`, `6281333603591@s.whatsapp.net`]
+		const ownerNumber = [`${owner}@s.whatsapp.net`, `628995820020@s.whatsapp.net`]
 		const isGroup = from.endsWith('@g.us')
 		let sender = isGroup ? mek.participant : mek.key.remoteJid
 		let senderr = mek.key.fromMe ? herman.user.jid : mek.key.remoteJid.endsWith('@g.us') ? mek.participant : mek.key.remoteJid
@@ -312,7 +312,7 @@ const isUrl = (url) => {
                             itemCount : 99999999,
                             status: 1,
                             surface : 1,
-                            message: `囧 𝐻𝑒𝑟𝑚𝑎𝑛 𝐶ℎ𝑎𝑛𝑒𝑙`, 
+                            message: `囧 AbbasMods`, 
                             orderTitle: `${botname}`,
                             thumbnail: fakeherman, //Gambarnye
                             sellerJid: '0@s.whatsapp.net' 
